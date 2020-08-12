@@ -54,7 +54,7 @@
 
 .buttons-container a.study {
     background-color: #eee;
-    border: .2rem solid #ffffff;
+    border: .1rem solid #ffffff;
     box-shadow: -8px -8px 10px #eee,
     15px 15px 10px #ccc;
     
@@ -62,7 +62,7 @@
 
 .buttons-container a.give-classes {
     background: #eee;
-    border: .2rem solid #ffffff;
+    border: .1rem solid #ffffff;
     box-shadow: -8px -8px 10px #eee,
     15px 15px 10px #ccc;
     
